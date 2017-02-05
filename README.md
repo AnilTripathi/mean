@@ -17,7 +17,7 @@ cd mean
    <br><strong>node server </strong>
  
 2. open command windows for Angular 2 Client (within mean/client folder)
-   npm run start
+  <br><strong> npm run start</strong>
 
 # Client url: http://localhost:3200
 
