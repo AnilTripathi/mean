@@ -1,23 +1,13 @@
 # mean
 MySql  Express Angular 2 Node JS  [MEAN] Example
 
+# Usage
 
-git clone https://github.com/AnilTripathi/mean.git
-<br><strong>cd mean</strong>
-# Install dependencies for Node JS
-<br><strong>npm install</strong>
+1. git clone https://github.com/AnilTripathi/mean.git
 
-# Install dependencies for Angular 2 Client  (with in client folder)
-
-<br><strong>npm install</strong>
-
-
-# for start server open two command windos one for Node Server and One For Angular 2 Client
-1. open command windows for start Node Server  (with in mean folder)
-   <br><strong>node server </strong>
- 
-2. open command windows for Angular 2 Client (within mean/client folder)
-  <br><strong> npm run start</strong>
+2. <br><strong>npm install</strong> in outer[mean] directory & inner Client directory
+3. cd into the Client directory and run tsc to compile the Typescript
+4. run npm start or nodemon from the terminal, and navigate to localhost:32000 in the browser
 
 # Client url: http://localhost:3200
 
