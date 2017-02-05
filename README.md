@@ -2,22 +2,6 @@
 MySql  Express Angular 2 Node JS  [MEAN] Example
 
 
-# DataBase Table Structure [DataBase Name is todo]
-
-CREATE TABLE todos (
-  id int(11) NOT NULL AUTO_INCREMENT,
-  title varchar(255) binary DEFAULT NULL,
-  isDone tinyint(1) DEFAULT NULL,
-  createdDate datetime DEFAULT NULL,
-  PRIMARY KEY (id)
-)
-ENGINE = INNODB
-AUTO_INCREMENT = 1
-AVG_ROW_LENGTH = 5461
-CHARACTER SET utf8
-COLLATE utf8_bin;
-
-
 git clone https://github.com/AnilTripathi/mean.git
 cd mean
 # Install dependencies for Node JS
