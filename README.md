@@ -3,7 +3,7 @@ MySql  Express Angular 2 Node JS  [MEAN] Example
 
 
 git clone https://github.com/AnilTripathi/mean.git
-cd mean
+<br><strong>cd mean</strong>
 # Install dependencies for Node JS
 <br><strong>npm install</strong>
 
